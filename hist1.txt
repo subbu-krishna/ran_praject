@@ -1,0 +1,46 @@
+    1  pwd
+    2  cd g:/
+    3  pwd
+    4  cd git_class
+    5  pwd
+    6  git init
+    7  pwd
+    8  ls
+    9  ls -a
+   10  git status
+   11  git add .
+   12  git status
+   13  git commit 
+   14  git config --global user.email "prasad@gmail.com
+"
+   15  git config --global user.name "prasad"
+   16  git commit -m "bootstrap file added"
+   17  git status
+   18  ls
+   19  touch name.txt
+   20  ls
+   21  git status
+   22  git add .
+   23  git status
+   24  git commit -m "name.txt added"
+   25  ls -lh
+   26  git status
+   27  ls 
+   28  cat name.txt
+   29  cat bootstrap.html 
+   30  vi bootstrap.html 
+   31  cat bootstrap.html 
+   32  cat name.txt 
+   33  cat >> name.txt 
+   34  cat name.txt 
+   35  git status
+   36  git add .
+   37  git status
+   38  git commit
+   39  git status
+   40  git log
+   41  git log --author="prasad"
+   42  git log --oneline
+   43  git log 1503539
+   44  touch hist1.txt
+   45  history >> hist1.txt 
